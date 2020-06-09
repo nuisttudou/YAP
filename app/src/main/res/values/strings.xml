@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YAP</string>
+    <!--    GAMP is Another Music Player-->
+    <!--    YAP Another Player-->
+    <string name="delete">Delete</string>
+    <string name="equalizer">Equalizer</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
